@@ -2,7 +2,7 @@
 #### Triangle-tracker is website that tracks different Triangles,15th February,2019
 #### By **Naomi Waruguru Ndibui**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+This is a website that helps you identify which triangle is either an equilateral, isosceles or scalene. All you have to do is;type a number on the text box then press the search button. This result in the appearance of an alert message written whether it's a one the above triangles or not.
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
