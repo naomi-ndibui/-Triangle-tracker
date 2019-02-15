@@ -9,7 +9,7 @@ This is a website that helps you identify which triangle is either an equilatera
 * Then fork my repository to your account.
 * Use the link https://naomi-ndibui.github.io/-Triangle-tracker/
 ## Known Bugs
-  
+  No bugs should be present once carefully installed.
 ## Technologies Used
 Atom text editor
 Programming languages;
@@ -17,7 +17,7 @@ Programming languages;
  JavaScript
  CSS stylesheet that incorporates cascading, box model and floats
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a
+naomi.ndibui@gmail.com
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+GNU GPLv3
+Copyright (c) 2019 
