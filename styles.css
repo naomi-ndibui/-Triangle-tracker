@@ -1,14 +1,16 @@
 .co-right {
-  width: 50%;
+  width: 100%;
   float: right;
+  background:grey;
 }
 
 .column-right img {
-  width: 100%;
+  width: 200%;
 }
 
-.image-height {
-  height: 610px;
+.image-h{
+  height: 2000px;
+  width: 1500px;
 }
 
 .title {
