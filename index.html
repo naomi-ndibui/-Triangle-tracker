@@ -3,18 +3,20 @@
 <head>
   <title>Triangle-tracker</title>
   <link href="styles.css" rel="stylesheet" type="text/css">
-  <script type="text/javascript" src="Triangle-tracker/scripts.js"></script>
+  <script type="text/javascript" src="scripts.js"></script>
 </head>
 
 <body>
   <h1>Triangle tracker</h1>
-              <strong><label for="sideOne">Side One:</label></strong>
-              <input id="sideOne" type="number" value="">
-              <strong><label for="sideTwo">Side Two:</label></strong>
-              <input id="sideTwo" type="number" value="">
-              <strong><label for="sideThree">Side Three:</label></strong>
-              <input id="sideThree" type="number"value="">
-              <input type="submit" value="OK">
+  <form onsubmit="triangle()">
+    <strong><label for="sideOne">Side One:</label></strong>
+    <input id="sideOne" type="number" value="">
+    <strong><label for="sideTwo">Side Two:</label></strong>
+    <input id="sideTwo" type="number" value="">
+    <strong><label for="sideThree">Side Three:</label></strong>
+    <input id="sideThree" type="number"value="">
+    <input type="submit" value="OK">
+  </form>
   <div class="co-right">
     <img class="image-h" src="Triangles.jpg"/>
   </div>
