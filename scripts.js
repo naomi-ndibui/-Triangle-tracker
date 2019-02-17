@@ -5,17 +5,17 @@ var triangle = function() {
   if (isTriangle(sideOne, sideTwo, sideThree)) {
     return triangleType(sideOne, sideTwo, sideThree)
   } else {
-    return "These sides do not make a triangle";
+    return alert("These sides do not make a triangle");
   }
 };
 
 var triangleType = function(sideOne, sideTwo, sideThree) {
   if ((sideOne === sideTwo) && (sideTwo === sideThree)) {
-    return "equilateral";
+    return alert("Equilateral: All sides of the triangle are equal");
   } else if ((sideOne === sideTwo) || (sideOne === sideThree) || (sideThree === sideTwo)) {
-    return "isosceles";
+    return alert("Isosceles: Two sides of the triangle are equal");
   } else {
-    return "scalene";
+    return alert("scalene: None of the sides of the triangle are equal");
   }
 };
 
